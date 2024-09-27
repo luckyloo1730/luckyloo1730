@@ -8,7 +8,7 @@
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a>
 
-## Follow me
+## Contact Me
 
 [![Telegram](https://img.shields.io/badge/-Telegram-090909?style=for-the-badge&logo=Telegram&logoColor=27A0D)](https://t.me/luckyloo_dev)
 [![Email](https://img.shields.io/badge/-Gmail-090909?style=for-the-badge&logo=Gmail&logoColor=yellow)](luckyloo@pay4fish.cloud)
